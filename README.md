@@ -20,4 +20,16 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
