@@ -82,4 +82,12 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
