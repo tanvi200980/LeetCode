@@ -31,6 +31,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+| [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
