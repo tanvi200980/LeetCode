@@ -10,6 +10,7 @@ DSA with java LeetCode solutions
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanvi200980/LeetCode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -29,6 +30,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,24 @@ DSA with java LeetCode solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
