@@ -31,6 +31,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -66,6 +68,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
