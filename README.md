@@ -59,6 +59,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Enumeration
 |  |
@@ -93,4 +94,12 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
