@@ -11,6 +11,7 @@ DSA with java LeetCode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanvi200980/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -34,6 +35,7 @@ DSA with java LeetCode solutions
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -108,6 +110,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Queue
 |  |
 | ------- |
