@@ -18,6 +18,7 @@ DSA with java LeetCode solutions
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ DSA with java LeetCode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanvi200980/LeetCode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -59,6 +61,7 @@ DSA with java LeetCode solutions
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
+| [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +130,12 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
