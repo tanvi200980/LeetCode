@@ -14,6 +14,7 @@ DSA with java LeetCode solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -65,6 +66,7 @@ DSA with java LeetCode solutions
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
@@ -111,6 +113,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Queue
 |  |
 | ------- |
@@ -120,4 +123,8 @@ DSA with java LeetCode solutions
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
