@@ -15,6 +15,7 @@ DSA with java LeetCode solutions
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ DSA with java LeetCode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,4 +116,5 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
