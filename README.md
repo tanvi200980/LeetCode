@@ -5,6 +5,7 @@ DSA with java LeetCode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanvi200980/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanvi200980/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
@@ -70,6 +71,7 @@ DSA with java LeetCode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanvi200980/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
