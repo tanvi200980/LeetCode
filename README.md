@@ -23,6 +23,7 @@ DSA with java LeetCode solutions
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/tanvi200980/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/tanvi200980/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/tanvi200980/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -167,4 +168,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/tanvi200980/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 <!---LeetCode Topics End-->
