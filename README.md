@@ -21,6 +21,7 @@ DSA with java LeetCode solutions
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -91,6 +92,7 @@ DSA with java LeetCode solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/tanvi200980/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanvi200980/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -186,6 +188,7 @@ DSA with java LeetCode solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Greedy
 |  |
 | ------- |
