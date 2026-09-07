@@ -88,6 +88,7 @@ DSA with java LeetCode solutions
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/tanvi200980/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -136,6 +137,7 @@ DSA with java LeetCode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
@@ -179,6 +181,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -188,4 +191,5 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
