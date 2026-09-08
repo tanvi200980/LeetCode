@@ -17,6 +17,7 @@ DSA with java LeetCode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/tanvi200980/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ DSA with java LeetCode solutions
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tanvi200980/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
@@ -133,6 +135,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +170,7 @@ DSA with java LeetCode solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/tanvi200980/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/tanvi200980/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -185,6 +190,7 @@ DSA with java LeetCode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -211,4 +217,12 @@ DSA with java LeetCode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanvi200980/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
