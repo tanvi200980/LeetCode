@@ -22,6 +22,7 @@ DSA with java LeetCode solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanvi200980/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/tanvi200980/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -39,6 +40,7 @@ DSA with java LeetCode solutions
 | [0162-find-peak-element](https://github.com/tanvi200980/LeetCode/tree/master/0162-find-peak-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/tanvi200980/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ternary Search
 |  |
@@ -189,6 +191,7 @@ DSA with java LeetCode solutions
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -198,4 +201,8 @@ DSA with java LeetCode solutions
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
