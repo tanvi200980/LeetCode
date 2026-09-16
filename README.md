@@ -6,6 +6,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanvi200980/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/tanvi200980/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanvi200980/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
@@ -158,6 +159,7 @@ DSA with java LeetCode solutions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanvi200980/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -217,6 +219,7 @@ DSA with java LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tanvi200980/LeetCode/tree/master/0015-3sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
