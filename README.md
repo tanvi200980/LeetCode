@@ -19,6 +19,7 @@ DSA with java LeetCode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/tanvi200980/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -229,6 +230,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanvi200980/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/tanvi200980/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanvi200980/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -240,4 +242,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
