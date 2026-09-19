@@ -22,6 +22,7 @@ DSA with java LeetCode solutions
 | [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tanvi200980/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tanvi200980/LeetCode/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@ DSA with java LeetCode solutions
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tanvi200980/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/tanvi200980/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -231,6 +233,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tanvi200980/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/tanvi200980/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tanvi200980/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/tanvi200980/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanvi200980/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
