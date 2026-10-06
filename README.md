@@ -70,6 +70,7 @@ DSA with java LeetCode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -155,6 +156,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanvi200980/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanvi200980/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanvi200980/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -226,6 +228,7 @@ DSA with java LeetCode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tanvi200980/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/tanvi200980/LeetCode/tree/master/0031-next-permutation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -255,4 +258,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
