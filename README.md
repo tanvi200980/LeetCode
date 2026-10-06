@@ -13,6 +13,7 @@ DSA with java LeetCode solutions
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tanvi200980/LeetCode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
@@ -96,6 +97,7 @@ DSA with java LeetCode solutions
 | [0001-two-sum](https://github.com/tanvi200980/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanvi200980/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
@@ -249,4 +251,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
