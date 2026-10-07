@@ -29,6 +29,7 @@ DSA with java LeetCode solutions
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tanvi200980/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/tanvi200980/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/tanvi200980/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/tanvi200980/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -231,6 +232,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/tanvi200980/LeetCode/tree/master/0055-jump-game) |
+| [0860-lemonade-change](https://github.com/tanvi200980/LeetCode/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tanvi200980/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/tanvi200980/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Two Pointers
