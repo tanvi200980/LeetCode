@@ -266,6 +266,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0707-design-linked-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -274,4 +275,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
