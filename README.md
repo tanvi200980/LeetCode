@@ -10,6 +10,7 @@ DSA with java LeetCode solutions
 | [0031-next-permutation](https://github.com/tanvi200980/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanvi200980/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanvi200980/LeetCode/tree/master/0055-jump-game) |
@@ -300,4 +301,8 @@ DSA with java LeetCode solutions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
