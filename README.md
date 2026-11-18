@@ -68,6 +68,7 @@ DSA with java LeetCode solutions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tanvi200980/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/tanvi200980/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tanvi200980/LeetCode/tree/master/0258-add-digits) |
@@ -152,6 +153,7 @@ DSA with java LeetCode solutions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tanvi200980/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
 ## Divide and Conquer
