@@ -15,6 +15,7 @@ DSA with java LeetCode solutions
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanvi200980/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tanvi200980/LeetCode/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanvi200980/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -316,9 +317,15 @@ DSA with java LeetCode solutions
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
