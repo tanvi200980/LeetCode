@@ -159,6 +159,7 @@ DSA with java LeetCode solutions
 | [0050-powx-n](https://github.com/tanvi200980/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/tanvi200980/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/tanvi200980/LeetCode/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
@@ -261,6 +262,7 @@ DSA with java LeetCode solutions
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanvi200980/LeetCode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -303,6 +305,7 @@ DSA with java LeetCode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/tanvi200980/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -319,6 +322,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/tanvi200980/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
