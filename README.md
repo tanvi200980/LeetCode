@@ -30,6 +30,7 @@ DSA with java LeetCode solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/tanvi200980/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/tanvi200980/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/tanvi200980/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanvi200980/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/tanvi200980/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0867-transpose-matrix) |
@@ -312,4 +313,12 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/tanvi200980/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
