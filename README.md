@@ -166,6 +166,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
@@ -192,6 +193,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanvi200980/LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tanvi200980/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -262,6 +264,7 @@ DSA with java LeetCode solutions
 | [0031-next-permutation](https://github.com/tanvi200980/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanvi200980/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -304,6 +307,7 @@ DSA with java LeetCode solutions
 | [0021-merge-two-sorted-lists](https://github.com/tanvi200980/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/tanvi200980/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -337,4 +341,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
