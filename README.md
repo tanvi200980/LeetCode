@@ -83,6 +83,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tanvi200980/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tanvi200980/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tanvi200980/LeetCode/tree/master/0070-climbing-stairs) |
@@ -185,6 +186,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanvi200980/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tanvi200980/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/tanvi200980/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/tanvi200980/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/tanvi200980/LeetCode/tree/master/0383-ransom-note) |
@@ -334,6 +336,7 @@ DSA with java LeetCode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/tanvi200980/LeetCode/tree/master/0078-subsets) |
 ## Stack
@@ -357,4 +360,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
