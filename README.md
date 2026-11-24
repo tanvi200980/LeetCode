@@ -338,6 +338,7 @@ DSA with java LeetCode solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/tanvi200980/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanvi200980/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
