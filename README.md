@@ -15,6 +15,7 @@ DSA with java LeetCode solutions
 | [0054-spiral-matrix](https://github.com/tanvi200980/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tanvi200980/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/tanvi200980/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/tanvi200980/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tanvi200980/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/tanvi200980/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tanvi200980/LeetCode/tree/master/0134-gas-station) |
@@ -176,6 +177,7 @@ DSA with java LeetCode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanvi200980/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/tanvi200980/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/tanvi200980/LeetCode/tree/master/0389-find-the-difference) |
 ## String
@@ -333,6 +335,7 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0046-permutations](https://github.com/tanvi200980/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tanvi200980/LeetCode/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
