@@ -117,6 +117,7 @@ DSA with java LeetCode solutions
 | [0138-copy-list-with-random-pointer](https://github.com/tanvi200980/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/tanvi200980/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/tanvi200980/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanvi200980/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -299,6 +300,7 @@ DSA with java LeetCode solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tanvi200980/LeetCode/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/tanvi200980/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/tanvi200980/LeetCode/tree/master/0707-design-linked-list) |
 ## Union-Find
@@ -320,6 +322,7 @@ DSA with java LeetCode solutions
 | [0138-copy-list-with-random-pointer](https://github.com/tanvi200980/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/tanvi200980/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanvi200980/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/tanvi200980/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/tanvi200980/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanvi200980/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/tanvi200980/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -365,4 +368,8 @@ DSA with java LeetCode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tanvi200980/LeetCode/tree/master/0022-generate-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanvi200980/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
